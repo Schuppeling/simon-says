@@ -1,5 +1,5 @@
 # simon-says
-A React game that simulates the Simon memory toy for kids.
+A React game that simulates the Simon memory toy for kids. First React project without following a guide.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
